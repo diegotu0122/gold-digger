@@ -1,0 +1,5 @@
+{
+  "name": "Modern Minesweeper",
+  "description": "A sleek, responsive Minesweeper game with multiple difficulty levels and a clean UI.",
+  "requestFramePermissions": []
+}
